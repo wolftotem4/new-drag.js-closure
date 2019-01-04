@@ -2,7 +2,7 @@
   "name": "new-drag.js-closure",
   "version": "0.5.2",
   "description": "A file drag-and-drop plugin for browser. (Google Closure version)",
-  "main": "index.js",
+  "main": "dist/dragjs.min.js",
   "scripts": {
     "build": "gulp build",
     "watch": "gulp watch"
