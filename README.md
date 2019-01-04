@@ -1,4 +1,4 @@
-# new-drag.js
+# new-drag.js-closure
 
 ## Introduction
 
