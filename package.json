@@ -1,0 +1,23 @@
+{
+  "name": "new-drag.js-closure",
+  "version": "0.5.2",
+  "description": "A file drag-and-drop plugin for browser. (Google Closure version)",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp build",
+    "watch": "gulp watch"
+  },
+  "author": "Randolph",
+  "license": "MIT",
+  "devDependencies": {
+    "google-closure-compiler": "^20181210.0.0",
+    "google-closure-library": "^20180910.0.0",
+    "gulp": "^4.0.0"
+  },
+  "keywords": [
+    "drag",
+    "drop",
+    "dnd",
+    "drag & drop"
+  ]
+}
