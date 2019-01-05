@@ -4,6 +4,8 @@
 
 A file drag-and-drop plugin for browser.
 
+This library is rewritten in Google Closure.
+
 ## Features
 
 * A pure library.
@@ -174,3 +176,7 @@ input.addEventListener('change', function () {
 * Microsoft Edge
 * Google Chrome
 * Mozilla Firefox
+
+## Alternative
+
+* new-drag.js ([GitHub](https://github.com/wolftotem4/new-drag.js), [npm](https://www.npmjs.com/package/new-drag.js)) - Coded in ECMAScript 6 & Babel
