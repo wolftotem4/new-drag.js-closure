@@ -7,8 +7,16 @@
     "build": "gulp build",
     "watch": "gulp watch"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wolftotem4/new-drag.js-closure.git"
+  },
   "author": "Randolph",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wolftotem4/new-drag.js-closure/issues"
+  },
+  "homepage": "https://github.com/wolftotem4/new-drag.js-closure",
   "devDependencies": {
     "google-closure-compiler": "^20181210.0.0",
     "google-closure-library": "^20180910.0.0",
