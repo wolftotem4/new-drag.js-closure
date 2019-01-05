@@ -1,6 +1,6 @@
 {
   "name": "new-drag.js-closure",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "A file drag-and-drop plugin for browser. (Google Closure version)",
   "main": "dist/dragjs.min.js",
   "scripts": {
