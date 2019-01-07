@@ -4,6 +4,7 @@
   "description": "A file drag-and-drop plugin for browser. (Google Closure version)",
   "main": "dist/dragjs.min.js",
   "scripts": {
+    "dev": "gulp dev",
     "build": "gulp build",
     "watch": "gulp watch"
   },
@@ -20,7 +21,11 @@
   "devDependencies": {
     "google-closure-compiler": "^20181210.0.0",
     "google-closure-library": "^20180910.0.0",
-    "gulp": "^4.0.0"
+    "gulp": "^4.0.0",
+    "gulp-prepack": "0.0.3",
+    "gulp-uglify": "^3.0.1",
+    "prepack": "^0.2.54",
+    "uglify": "^0.1.5"
   },
   "keywords": [
     "drag",
