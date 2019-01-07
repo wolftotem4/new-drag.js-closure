@@ -9,7 +9,7 @@ This library is rewritten in Google Closure.
 ## Features
 
 * A pure library.
-* Lightweight (Minimized drag.min.js ~6.44 KiB)
+* Lightweight (Minimized drag.min.js ~3.29 KiB)
 * Folders upload
 
 ## Basic Usage
